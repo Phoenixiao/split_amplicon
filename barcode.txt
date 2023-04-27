@@ -1,0 +1,2 @@
+demo-F	GAATTCTCTGACGGATCCcagaccaccaatgggcac
+demo-R	GAATTCGCCAATGGATCCcttcttgattagtcatcttctcc
